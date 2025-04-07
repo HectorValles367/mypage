@@ -8,9 +8,27 @@ body{
     min-width: 375px;
     width: 100%;
     min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(#673AB7, #000000);
 }
 
 .box{
 
 }
 
+small-box{
+
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+}
+
+img{
+
+}
